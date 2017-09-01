@@ -1,2 +1,2 @@
 # Chatbot
-Chatbot powered by IBM cloud platform
+Chatbot powered by IBM cloud platform - Bluemix
